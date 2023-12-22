@@ -177,7 +177,6 @@ body::after {
   }
   
   .item {
-    background-image: url(https://grainy-gradients.vercel.app/noise.svg);
     background-color: #0000005d;
     border-radius: 5px;
     text-align: center;
